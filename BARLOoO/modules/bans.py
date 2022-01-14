@@ -41,7 +41,7 @@ from BARLOoO.modules.helper_funcs.chat_status import (
     dev_plus,
 )
 from BARLOoO.modules.helper_funcs.extraction import extract_user_and_text
-from BARLOoO.modules.helper_funcs.string_handling import extract_time
+from BARLOoo.modules.helper_funcs.string_handling import extract_time
 from BARLOoO.modules.log_channel import gloggable, loggable
 
 
