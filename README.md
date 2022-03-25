@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/37fee477b44cb8b06b7c6.jpg">
+  <img src="https://telegra.ph/file/77b2be38be8f2ad8a185a.jpg">
 </p>
 
 <h4><p align="center"> BARLO NEW </p></h4>
