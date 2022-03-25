@@ -40,7 +40,7 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ## Credit 
 
-• [Dev MohammeD](https://github.com/crsti0)
+• [Dev Abdulrahmman](https://github.com/Abdulrahmman8894)
 
 • [Arya](https://github.com/Aryazakaria01)
 
