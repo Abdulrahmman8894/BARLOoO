@@ -1,5 +1,5 @@
 {
-      "name": "BARLOoO",
+      "name": "MR_X_MUSIC CV", 
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/37fee477b44cb8b06b7c6.jpg",  
-   "repository": "https://github.com/crsti0/https://github.com/crsti0/BARLOoO",
+   "logo":    "https://telegra.ph/file/77b2be38be8f2ad8a185a.jpg",  
+   "repository": "https://github.com/Abdulrahmman8894/MR_X",
    "addons": [
           {
          "options": {
@@ -69,7 +69,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "Source1bot"
+         "value": "MR_X_8_Bot"
       },
 
       "BOT_ID": {
@@ -79,12 +79,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "bar_lo0o0"
+         "value": "MR_X_N"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "bar_lo0o"
+         "value": "SULTAN1_1B"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -107,7 +107,7 @@
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001280688248"
+         "value": "-1001428635331"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
