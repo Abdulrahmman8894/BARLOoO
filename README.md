@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/77b2be38be8f2ad8a185a.jpg">
 </p>
 
-<h4><p align="center"> BARLO NEW </p></h4>
+<h4><p align="center"> NR_X NEW </p></h4>
 
 <p align="center">MR _XNEW is a modular bot running on python3 with anime theme and have a lot features.</p>
 
