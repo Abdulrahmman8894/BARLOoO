@@ -33,9 +33,9 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ### Support
 <p>
-<a href="https://t.me/bar_lo0o0"> <img src="https://img.shields.io/badge/Devloper-blue?&logo=telegram" alt="Devloper on Telegram" /> </a><br>
-<a href="https://t.me/bar_lo0o"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/bar_lo0o0o0o0o"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
+<a href="https://t.me/MR_X_N"> <img src="https://img.shields.io/badge/Devloper-blue?&logo=telegram" alt="Devloper on Telegram" /> </a><br>
+<a href="https://t.me/MR_X_N_2"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/SULTAN1_1B"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
 ## Credit 
